@@ -22,7 +22,7 @@ git checkout -b aprofundando-knex
 - [Aprofundamento SQL](https://github.com/labenuexercicios/aprofundamento-sql-exercicios)
 - [Relações em SQL I](https://github.com/labenuexercicios/relacoes-sql-I)
 - [Relações em SQL II](https://github.com/labenuexercicios/relacoes-sql-II)
-- [Knex - Raw e QueryBuilder](https://github.com/labenuexercicios/knex-raw-query-builder)
+- [Introdução ao Knex](https://github.com/labenuexercicios/introducao-knex-exercicios)
 
 
 
