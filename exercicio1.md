@@ -1,2 +1,2 @@
 # Exercício 1
-Refatore todas as suas queries raw para query builder.
+Refatore pelo menos 3 endpoints que você fez em raw para query builder.
