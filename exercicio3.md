@@ -4,10 +4,10 @@ Refatore o endpoint criado no exercício anterior para que o resultado bem suced
 ## Dicas
 Esboce o algoritmo! Uma solução simples é criar três requisições com o banco de dados:
 - uma para o que você já fez no exercício anterior;
-- outra logo em seguida para buscar a lista das ids dos produtos registrados na compra;
-- e a última para buscar os dados de cada produto baseado na sua id.
+- outra logo em seguida para buscar a lista das ids e quantidades dos produtos registrados na compra;
+- e a última para buscar os dados específicos de cada produto baseado na sua id.
 
-Você já tem o conhecimento e a prática necessária para fazer cada passo separado, o desafio agora é juntar tudo em um único fluxo e unir com a manipulação de arrays e objetos no typescript.
+Você já tem o conhecimento e a prática necessária para fazer cada passo separado, o desafio agora é juntar tudo em um único fluxo e unir com a manipulação de arrays e objetos no typescript para modelar a estrutura da resposta.
 
 ## Exemplo de saída (output)
 ```typescript
