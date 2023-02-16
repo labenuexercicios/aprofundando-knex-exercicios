@@ -1,4 +1,4 @@
-# Exercício da tarde - Aprofundando em Knex
+# Exercício - Aprofundando em Knex
 
 ATENÇÃO! Não forke nem clone esse repositório. Ele serve apenas como enunciado!<br><br>
 
@@ -29,4 +29,4 @@ git checkout -b aprofundando-knex
 ## Relembrando
 
 O objetivo dos exercícios da tarde é desenvolver o próprio projeto Labecommerce - Backend conforme o avanço das aulas.
-A cada atividade da tarde iremos implementar ou refatorar partes do projeto, além de praticar lógicas por fora.
+A cada atividade iremos implementar ou refatorar partes do projeto, além de praticar lógicas por fora.
