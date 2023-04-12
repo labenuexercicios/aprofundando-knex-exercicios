@@ -1,13 +1,6 @@
 # Exercício 3
-Refatore o endpoint criado no exercício anterior para que o resultado bem sucedido também retorne a lista de produtos registrados na compra.
+Refatore o endpoint criado no exercício anterior para que o resultado bem sucedido também retorne a **lista de produtos** que tem relação com a compra pesquisada.
 
-## Dicas
-Esboce o algoritmo! Uma solução simples é criar três requisições com o banco de dados:
-- uma para o que você já fez no exercício anterior;
-- outra logo em seguida para buscar a lista das ids e quantidades dos produtos registrados na compra;
-- e a última para buscar os dados específicos de cada produto baseado na sua id.
-
-Você já tem o conhecimento e a prática necessária para fazer cada passo separado, o desafio agora é juntar tudo em um único fluxo e unir com a manipulação de arrays e objetos no typescript para modelar a estrutura da resposta.
 
 ## Exemplo de saída (output)
 ```typescript
@@ -49,3 +42,11 @@ Você já tem o conhecimento e a prática necessária para fazer cada passo sepa
   ]
 }
 ```
+
+## Dicas
+Esboce o algoritmo imaginando como você pode modelar os dados e ter a saída esperada. <br>
+Uma solução simples é criar duas requisições separadas no banco de dados:
+1. uma para o que você já fez no exercício anterior;
+2. e outra para buscar os dados específicos de cada produto baseado na sua id.
+
+_Você já tem o conhecimento e a prática necessária para fazer cada passo separado, o desafio agora é juntar tudo em um único fluxo e unir com a manipulação de arrays e objetos no typescript para modelar a estrutura da resposta._
