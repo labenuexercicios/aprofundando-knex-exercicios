@@ -40,4 +40,6 @@ Uma solução simples é criar duas requisições separadas no banco de dados:
 1. uma para o que você já fez no exercício anterior;
 2. e outra para buscar os dados específicos de cada produto baseado na sua id.
 
+Outra saída é usando o JOIN.
+
 _Você já tem o conhecimento e a prática necessária para fazer cada passo separado, o desafio agora é juntar tudo em um único fluxo e unir com a manipulação de arrays e objetos no typescript para modelar a estrutura da resposta._
